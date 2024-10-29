@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(37,2): error C2664: 'void printVec(std::vector<double,std::allocator<double>> *)': cannot convert argument 1 from 'std::vector<double,std::allocator<double>>' to 'std::vector<double,std::allocator<double>> *'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(37,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(8,6): message : see declaration of 'printVec'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(37,2): message : while trying to match the argument list '(std::vector<double,std::allocator<double>>)'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(38,2): error C2664: 'void printVec(std::vector<double,std::allocator<double>> *)': cannot convert argument 1 from 'std::vector<double,std::allocator<double>>' to 'std::vector<double,std::allocator<double>> *'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(38,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(8,6): message : see declaration of 'printVec'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(38,2): message : while trying to match the argument list '(std::vector<double,std::allocator<double>>)'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(39,2): error C2664: 'void printVec(std::vector<double,std::allocator<double>> *)': cannot convert argument 1 from 'std::vector<double,std::allocator<double>>' to 'std::vector<double,std::allocator<double>> *'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(39,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(8,6): message : see declaration of 'printVec'
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(39,2): message : while trying to match the argument list '(std::vector<double,std::allocator<double>>)'
