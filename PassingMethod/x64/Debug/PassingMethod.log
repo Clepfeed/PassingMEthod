@@ -1,3 +1,5 @@
 ﻿  main.cpp
-D:\C++\BSU\MB\Lab3\PassingMEthod\PassingMethod\main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  PassingMethod.vcxproj -> D:\C++\BSU\MB\Lab3\PassingMEthod\x64\Debug\PassingMethod.exe
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(15,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(26,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Code\c++\MB\Lab3\PassingMethod\PassingMethod\main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PassingMethod.vcxproj -> D:\Code\c++\MB\Lab3\PassingMethod\x64\Debug\PassingMethod.exe
